@@ -1,0 +1,7 @@
+.App {
+  flex: 1; /* Ensures it stretches to fill the remaining space */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Ensures spacing for footer and other sections */
+  background-color: #fff8f5; /* Fix color syntax */
+}
